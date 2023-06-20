@@ -4,6 +4,7 @@ import functions
 import time
 
 now = time.strftime("%b %d, %Y %H:%M:%S")  # inbuilt strftime(stringformat time) method from time module to print time
+print("The time is below:")
 print("It is", now)
 
 while True:
