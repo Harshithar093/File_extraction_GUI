@@ -5,3 +5,5 @@ learn
 docker
 Turn off the light.
 machine learning
+Master Python!
+Task
