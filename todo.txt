@@ -1,9 +1,7 @@
-look
-learn
-chess
-learn
+Assign taskPLayCook FOODlearn
 docker
 Turn off the light.
 machine learning
 Master Python!
 Task
+Assign task2
