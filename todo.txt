@@ -1,4 +1,3 @@
-Assign taskPLayCook FOODlearn
 docker
 Turn off the light.
 machine learning
